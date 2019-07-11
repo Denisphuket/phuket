@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/phuket/precache-manifest.bdfb2aae2ff1ea09b3e38e04706abc78.js"
+  "/phuket/precache-manifest.4d0af16bdddddcc4e05659d1f2b2cda6.js"
 );
 
 workbox.clientsClaim();
