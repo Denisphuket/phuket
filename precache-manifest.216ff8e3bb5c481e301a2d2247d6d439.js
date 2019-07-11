@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/phuket/static/js/runtime~main.c24c5275.js"
   },
   {
-    "revision": "76abe5f273a6ba36afbe",
-    "url": "/phuket/static/js/main.6cfd4625.chunk.js"
+    "revision": "23f77a7a20e15af74494",
+    "url": "/phuket/static/js/main.0fb38790.chunk.js"
   },
   {
-    "revision": "a90d7b16727eb3a99293",
-    "url": "/phuket/static/js/2.a4046bf2.chunk.js"
+    "revision": "ef26c027989778144231",
+    "url": "/phuket/static/js/2.427fca64.chunk.js"
   },
   {
-    "revision": "76abe5f273a6ba36afbe",
+    "revision": "23f77a7a20e15af74494",
     "url": "/phuket/static/css/main.f7eb7193.chunk.css"
   },
   {
-    "revision": "a90d7b16727eb3a99293",
+    "revision": "ef26c027989778144231",
     "url": "/phuket/static/css/2.13937ee1.chunk.css"
   },
   {
-    "revision": "e28564e0a49d00243761ab8f09d0aab8",
+    "revision": "9c08c3eb5c85a6b69a940b5de5336a88",
     "url": "/phuket/index.html"
   }
 ];
