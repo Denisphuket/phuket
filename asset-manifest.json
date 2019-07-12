@@ -1,16 +1,16 @@
 {
-  "main.css": "/phuket/static/css/main.f7eb7193.chunk.css",
-  "main.js": "/phuket/static/js/main.d0301b54.chunk.js",
-  "main.js.map": "/phuket/static/js/main.d0301b54.chunk.js.map",
+  "main.css": "/phuket/static/css/main.4c60b41b.chunk.css",
+  "main.js": "/phuket/static/js/main.af11b750.chunk.js",
+  "main.js.map": "/phuket/static/js/main.af11b750.chunk.js.map",
   "runtime~main.js": "/phuket/static/js/runtime~main.c24c5275.js",
   "runtime~main.js.map": "/phuket/static/js/runtime~main.c24c5275.js.map",
   "static/css/2.13937ee1.chunk.css": "/phuket/static/css/2.13937ee1.chunk.css",
-  "static/js/2.5c1b2ba6.chunk.js": "/phuket/static/js/2.5c1b2ba6.chunk.js",
-  "static/js/2.5c1b2ba6.chunk.js.map": "/phuket/static/js/2.5c1b2ba6.chunk.js.map",
+  "static/js/2.81697ebb.chunk.js": "/phuket/static/js/2.81697ebb.chunk.js",
+  "static/js/2.81697ebb.chunk.js.map": "/phuket/static/js/2.81697ebb.chunk.js.map",
   "index.html": "/phuket/index.html",
-  "precache-manifest.94cc9d2730d9575c0908213e17e6ccde.js": "/phuket/precache-manifest.94cc9d2730d9575c0908213e17e6ccde.js",
+  "precache-manifest.8db125bb9327f01d6fc223cee9eb6b93.js": "/phuket/precache-manifest.8db125bb9327f01d6fc223cee9eb6b93.js",
   "service-worker.js": "/phuket/service-worker.js",
   "static/css/2.13937ee1.chunk.css.map": "/phuket/static/css/2.13937ee1.chunk.css.map",
-  "static/css/main.f7eb7193.chunk.css.map": "/phuket/static/css/main.f7eb7193.chunk.css.map",
+  "static/css/main.4c60b41b.chunk.css.map": "/phuket/static/css/main.4c60b41b.chunk.css.map",
   "static/media/persik.png": "/phuket/static/media/persik.4e1ec840.png"
 }
